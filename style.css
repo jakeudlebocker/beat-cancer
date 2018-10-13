@@ -1,13 +1,25 @@
 body {
   background-image: linear-gradient(111deg, red, orange, black, blue);
 font-family: 'Chakra Petch', sans-serif}
-#container {background-color: white; min-height: 300px; padding: 20px; border-width: thick; border-style: dotted ; border-color: maroon; margin: auto; width: 80%;}
+#container {background-color: white; min-height: 400px; padding: 20px; border-width: thick; border-style: dotted ; border-color: maroon; margin: auto; width: 80%;}
 header h1 {color: red; text-align: center;
 font-family: 'Bevan', cursive;
-font-size: 60px}
+font-size: 40px}
 nav ul {list-style: none; background-color: beige; margin: -20px; text-align: center; padding: 0; font-size: 0 }
 nav li {display: inline-block; color: green; padding: 10px; border-left: 1px solid white; font-size: 16px}
 
 nav li:last-of-type {border-right: 1px solid white;}
 nav a {color: green; text-decoration: none; display:block;}
 nav a:hover {background-color: yellow}
+main h2 {color: teal; padding-bottom: 40px}
+footer {background-color: gray; font-size: 12px; padding: 8px; margin:-20px
+
+
+
+}
+#social-media {font-size: 20px}
+.icon-chrome {color: green}
+.icon-lastfm2 {color: dodgerblue}
+main img{ width: 150px
+
+}
